@@ -1,0 +1,6 @@
+Flask
+Flask-Cors
+Flask-HTTPAuth
+Flask-Session
+mysql-connector-python
+"numpy"-not yet installed
